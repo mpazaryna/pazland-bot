@@ -23,7 +23,7 @@ export default function Home() {
       </div>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
-      As soon as they were gone, Elizabeth walked out to recover her spirits; or in other words, to dwell without interruption on those subjects that must deaden them more. Mr. Darcy's behaviour astonished and vexed her.
+        This is the text.
       </div>
     </main>
   )
